@@ -20,3 +20,18 @@ These file is released under a MIT License.
 <br>
 <br>
 <br>
+
+    1.0.0 (2021-04-11)
+    ------------------
+    Tested With:
+    - Python 3.8.5
+    - Windows 10
+    Requires:
+    - Anaconda
+    Dependecies:
+    - clipboard
+    - tkinter
+    
+    How To Istall the dependecies: (after Anaconda Python)
+    - pip install clipboard
+    - conda install -c anaconda tk
