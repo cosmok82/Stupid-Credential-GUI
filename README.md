@@ -1,4 +1,4 @@
-# Stupid-Credential-GUI
+# Stupid Credential GUI
 <div style="text-align: center;">
 <a href="https://github.com/cosmok82/Stupid-Credential-GUI/blob/main/thumbnail.jpg?raw=true">
 <img alt="img" src="https://github.com/cosmok82/Stupid-Credential-GUI/blob/main/thumbnail.jpg?raw=true">
